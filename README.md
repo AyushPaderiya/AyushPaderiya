@@ -22,10 +22,9 @@ I'm passionate about leveraging data to drive strategic decisions and create imp
 
 ## 🌟 Featured Project
 
-### [Home-Credit-Default-Risk](https://github.com/AyushPaderiya/Home-Credit-Default-Risk)
+### [Vendor-Performance-Analysis](https://github.com/AyushPaderiya/Vendor-Performance-Analysis)
 
-> This project focuses on analyzing financial application data to explore patterns that influence loan approvals and potential defaults. By combining Python-based exploratory analysis and an interactive Power BI dashboard, it provides valuable insights for data-driven decision-making in finance.
-
+> A complete data analytics project that analyzes vendor and inventory performance using SQL, Python, and Power BI to drive data-informed procurement and inventory decisions.
 ---
 
 ## 📫 Connect with Me
